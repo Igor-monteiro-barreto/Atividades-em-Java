@@ -4,5 +4,6 @@ public class exemplo1 {
         for(int i = 1; i < 6 ; i++ ){
             soma += 1 ;
         }
+        System.out.println(soma);
     }
 }
